@@ -1,12 +1,20 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Gabriel Bonifácio
+# 👋 Olá, eu sou Gabriel Bonifácio!
 
 ### 🎓 Estudante de Engenharia de Computação • UNIVESP
-
 ### ☕ Desenvolvedor Backend em formação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=650&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Sempre+aprendendo+novas+tecnologias" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Sempre+aprendendo+novas+tecnologias" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 </div>
 
@@ -14,40 +22,39 @@
 
 # 👨‍💻 Sobre mim
 
-🎓 Estudante de Engenharia de Computação na **UNIVESP**
+Sou estudante de **Engenharia de Computação** na **UNIVESP**, apaixonado por tecnologia e desenvolvimento de software.
 
-💻 Desenvolvendo projetos práticos utilizando **Java**, **Spring Boot** e **Node.js**
+Meu foco está no desenvolvimento **Backend**, construindo APIs REST utilizando Java e Spring Boot, sempre buscando aplicar boas práticas de programação, arquitetura de software e testes.
 
-📚 Atualmente estudando:
-
-- Spring Boot
-- Spring Security
-- Docker
-- PostgreSQL
-- Arquitetura de Software
-- Clean Code
-
-🎯 Objetivo:
-
-> Conquistar uma oportunidade como **Desenvolvedor Backend**.
+🎯 **Objetivo:** conquistar uma oportunidade como Desenvolvedor Backend e evoluir constantemente através de projetos reais.
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Stack Principal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,javascript,python,mysql,postgres,docker,git,github,vscode,aws"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,aws"/>
 
 </div>
 
 ---
 
-# 📊 Estatísticas
+# 📚 Também possuo conhecimentos em
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GABRIEL23BONIFACIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,python,vscode"/>
+
+</div>
+
+---
+
+# 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GABRIEL23BONIFACIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL23BONIFACIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -55,7 +62,7 @@
 
 ---
 
-# 🔥 Contribuições
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
@@ -65,45 +72,7 @@
 
 ---
 
-# 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GABRIEL23BONIFACIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📌 Projetos
-
-### 🍔 API Foods
-
-API REST utilizando Java e Spring Boot.
-
----
-
-### 👤 API Usuários
-
-CRUD utilizando Node.js e Prisma.
-
----
-
-### 🚀 Próximos projetos
-
-- Sistema de Pedidos
-
-- API com autenticação JWT
-
-- Docker + PostgreSQL
-
-- Testes com JUnit
-
-- Microsserviços
-
----
-
-# 📈 Atividade
+# 📊 Atividade
 
 <div align="center">
 
@@ -113,16 +82,69 @@ CRUD utilizando Node.js e Prisma.
 
 ---
 
-# 🌎 Onde me encontrar
+# 🏆 Conquistas
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabriel-bonif%C3%A1cio-46a2b8196/">
+<img src="https://github-profile-trophy.vercel.app/?username=GABRIEL23BONIFACIO&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📌 Projetos em Destaque
+
+## 🍔 API Foods
+
+✔ API REST desenvolvida com Java e Spring Boot
+
+✔ CRUD completo
+
+✔ Integração com banco de dados
+
+✔ Arquitetura em camadas
+
+🔗 https://github.com/GABRIEL23BONIFACIO/api-foods-springboot
+
+---
+
+## 👤 API Usuários
+
+✔ API CRUD utilizando Node.js e Prisma
+
+✔ Banco de dados relacional
+
+✔ Estrutura organizada
+
+🔗 https://github.com/GABRIEL23BONIFACIO/api-usuarios-prisma
+
+---
+
+# 🎯 Roadmap de Estudos
+
+- ✅ Java
+- ✅ Git e GitHub
+- ✅ MySQL
+- ✅ Spring Boot
+- 🔄 Docker
+- 🔄 PostgreSQL
+- 🔄 Spring Security
+- ⏳ JUnit
+- ⏳ AWS
+- ⏳ Microsserviços
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabriel-bonif%C3%A1cio-46a2b8196/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -151,6 +173,6 @@ CRUD utilizando Node.js e Prisma.
 
 <div align="center">
 
-> *"A melhor maneira de aprender é construindo projetos."*
+> **"Transformando aprendizado em projetos reais e evoluindo um commit por vez." 🚀**
 
 </div>
