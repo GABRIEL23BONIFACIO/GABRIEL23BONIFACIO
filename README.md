@@ -53,7 +53,7 @@ Meu foco principal está no desenvolvimento **Backend**, construindo APIs REST r
 
 ## 📫 Contato
 
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **LinkedIn:** https://www.linkedin.com/in/gabrielbonifacio23/
 - **E-mail:** gabrielaparecidobonifacio@gmail.com
 
 ---
